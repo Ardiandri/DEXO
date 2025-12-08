@@ -1,5 +1,1 @@
-12.0 DEXO_
-bns
-hek
-hak
-gsksv
+DEXO V12.0x
