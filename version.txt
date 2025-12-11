@@ -1,5 +1,1 @@
-DEXO V13.1x
-bzm
-bz
-hang
-haks
+13.1 DEXO
