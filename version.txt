@@ -1,5 +1,1 @@
-DEXO V14
-Hks
-hk
-hkd
-hsks
+14.0 DEXO
