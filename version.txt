@@ -1,5 +1,1 @@
-DEXO 15|1
-hdkd
-hdjd
-hdjd
-hdjd
+1.0 DEXO
