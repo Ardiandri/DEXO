@@ -1,5 +1,1 @@
-2.0 DEXO
-hsk
-hdk
-hsk
-hsj
+DEXO V3.0
