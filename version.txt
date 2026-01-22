@@ -1,6 +1,1 @@
-6.0 DEXO
-gskak
-hsjs
-hsjs
-bsjs
-bsjs
+DEXO 6.0/
