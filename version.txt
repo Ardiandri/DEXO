@@ -1,6 +1,1 @@
-7.0 DEXO
-sbsj
-hdjd
-hddk
-jdkd
-hdjd
+DEXO 8.0
