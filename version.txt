@@ -1,5 +1,1 @@
-18.0 DEXO
-gjs
-hdjd
-hdjd
-hdjs.hdjd
+DEXO 1.0
