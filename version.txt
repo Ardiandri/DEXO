@@ -1,6 +1,1 @@
-2.1.1 BaiXmod
-GKS
-JSKS
-HDSK
-HDJD
-HDJD
+BaiXmod 3.0.0
