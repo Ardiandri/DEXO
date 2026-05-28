@@ -1,7 +1,1 @@
-4.0.0 BaiXmod
-GSJS
-HSKS
-DJDJ
-HSSJ
-SHS
-JS
+BaiXmod 5.0.0
