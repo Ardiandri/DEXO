@@ -1,6 +1,1 @@
-6.0 BaiXmod
-HDSN
-NDK
-DJD
-J
-HSJS
+BaiXmod 7.0
